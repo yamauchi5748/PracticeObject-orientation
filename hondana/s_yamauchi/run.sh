@@ -1,0 +1,1 @@
+java -cp ./target/DesignPattern-1.0.jar com.App
